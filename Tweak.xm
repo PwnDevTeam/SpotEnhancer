@@ -75,13 +75,6 @@ if([text isEqualToString:@"iFile"]){
 
 }
 
-
-if([text isEqualToString:@"Safari"]){
-
- [[UIApplication sharedApplication] applicationOpenURL:[NSURL URLWithString:[NSString stringWithFormat:@"web://"]]];
-
-}
-
 if([text isEqualToString:@"Cydia"]){
 
  [[UIApplication sharedApplication] applicationOpenURL:[NSURL URLWithString:[NSString stringWithFormat:@"Cydia://"]]];
