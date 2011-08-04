@@ -1,9 +1,9 @@
-Package: com.abart997.spotenhancer
+Package: com.pwndevteam.spotenhancer
 Name: SpotEnhancer
 Depends: mobilesubstrate
 Version: 1.0
 Architecture: iphoneos-arm
-Description: Add features to your Spotlight
-Maintainer: Andrea Oliva
-Author: Andrea Oliva
+Description: Add features to your Spotlight, created by Andrea Oliva, modified by @gingerndubz
+Maintainer: Will G
+Author: Will G
 Section: Tweaks
